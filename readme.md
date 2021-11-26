@@ -4,6 +4,8 @@
 
 # WakeOnLAN And Exit (WOL AE)
 
+![WOL AE GIF](./readme_res/WOL_AE_Demo.gif)
+
 # Summary
 
 - [Description](#description)
