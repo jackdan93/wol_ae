@@ -133,7 +133,7 @@ namespace WOL_AE
             else
             {
                 //Check format
-                if ((portNum != 7 || portNum != 9) && (portNum < 1024 || portNum > 65353))
+                if ((portNum != 7 && portNum != 9) && (portNum < 1024 || portNum > 65353))
                     throw new WOLClientException("Invalid port number specified! Only 7, 9, or a value within the range 1024-65353 can be used! Aborting...");
             }
 

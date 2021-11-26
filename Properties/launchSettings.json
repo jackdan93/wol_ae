@@ -1,7 +1,8 @@
 {
   "profiles": {
     "WOL_AE": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "MAC__ADDRESS"
     }
   }
 }
